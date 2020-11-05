@@ -3,6 +3,7 @@
 This was written in the course Business Intelligence.
 The task was to analyze a dataset and fix data errors to get a nice plot of a stock.
 
+![Stockplot](Stockplot.PNG)
 
 I must warn that this script is not the best example of following standard naming conventions but I will blame it on being a student and not knowing better :-)
 
